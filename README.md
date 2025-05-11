@@ -1,4 +1,4 @@
-# 🧩 How to Use Multiple Git Accounts by Folder on Windows
+# How to Use Multiple Git Accounts by Folder on Windows
 
 > Seamlessly manage personal and work GitHub accounts on the same Windows machine — no reconfiguration needed per repo.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Why This Matters
+## Why This Matters
 
 If you contribute to **personal projects**, **open-source**, and **company repositories**, you likely have **multiple GitHub accounts**.  
 And you’ve probably hit a wall where Git commits the wrong email — or worse — GitHub rejects pushes because of wrong credentials.
@@ -143,6 +143,9 @@ Global config doesn't scale	Modular .gitconfig setup
 
 [includeIf "gitdir:C:/Projects/Work/"]
     path = .gitconfig-work
+
+
+
 👤 Author
 Duncan Kibet
 
