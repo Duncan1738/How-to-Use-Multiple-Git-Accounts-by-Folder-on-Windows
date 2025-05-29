@@ -146,7 +146,7 @@ TL;DR – Config Blueprint
 
 
 
-👤 Author
+
 Duncan Kibet
 
 
