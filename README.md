@@ -131,8 +131,7 @@ Wrong GitHub email in commits	Folder-based user config
 Too many SSH keys, frequent switching	SSH config with separate identities
 Manual git config per repo	Automatic per-directory configuration
 Global config doesn't scale	Modular .gitconfig setup
-
-🧪 TL;DR – Config Blueprint
+TL;DR – Config Blueprint
 
 # ~/.gitconfig
 [user]
