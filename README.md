@@ -11,7 +11,7 @@
 If you contribute to **personal projects**, **open-source**, and **company repositories**, you likely have **multiple GitHub accounts**.  
 And you’ve probably hit a wall where Git commits the wrong email — or worse — GitHub rejects pushes because of wrong credentials.
 
-### 🔧 The typical "global config" approach:
+### The typical "global config" approach:
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "you@personal.com"
@@ -30,15 +30,15 @@ Set up Git to automatically switch users based on folder paths, like:
 C:\Projects\Personal → uses personal GitHub credentials  
 C:\Projects\Work     → uses work GitHub credentials
 This works system-wide, even in Git Bash, CMD, Windows Terminal, and VS Code.
-
-🛠️ Step-by-Step Setup for Windows
-🧱 1. Create a Consistent Folder Structure
+---
+Step-by-Step Setup for Windows
+1. Create a Consistent Folder Structure
  use this setup:
 C:\Projects\
 ├── Personal\
 └── Work\
-
-📝 2. Create Git Config Files for Each Identity
+-----
+2. Create Git Config Files for Each Identity
 In your user directory (C:\Users\YourUsername), create:
 
 ➕ .gitconfig-personal
@@ -50,8 +50,8 @@ In your user directory (C:\Users\YourUsername), create:
 [user]
     name = Your Work Name
     email = yourname@company.com
-
-🔧 3. Edit the Main .gitconfig in Your User Folder
+---
+3. Edit the Main .gitconfig in Your User Folder
 Edit or create C:\Users\YourUsername\.gitconfig:
 [user]
     name = Default User
@@ -64,14 +64,14 @@ Edit or create C:\Users\YourUsername\.gitconfig:
     path = .gitconfig-work
 📌 Use / in paths (even on Windows), and ensure the folder ends with /.
 
-💼 4. Create and Test Repositories
+4. Create and Test Repositories
 Personal
 cd C:\Projects\Personal
 mkdir test-personal && cd test-personal
 git init
 git config user.name   # Should show your personal name
 git config user.email  # Should show your personal email
-
+---
 Work
 cd C:\Projects\Work
 mkdir test-work && cd test-work
@@ -79,14 +79,14 @@ git init
 git config user.name   # Should show your work name
 git config user.email  # Should show your work email
 ✅ You’re now committing using the correct account automatically!
-
-🔐 Bonus: SSH Key Setup for Multiple GitHub Accounts
+---
+Bonus: SSH Key Setup for Multiple GitHub Accounts
 If you're using SSH authentication:
 
 1. Generate separate SSH keys
 ssh-keygen -t ed25519 -C "personal" -f ~/.ssh/id_ed25519_personal
 ssh-keygen -t ed25519 -C "work" -f ~/.ssh/id_ed25519_work
-
+---
 2. Edit SSH config file ~/.ssh/config
 Host github.com-personal
   HostName github.com
@@ -97,6 +97,7 @@ Host github.com-work
   HostName github.com
   User git
   IdentityFile ~/.ssh/id_ed25519_work
+---
 3. Use the correct host when cloning
 # Personal
 git clone git@github.com-personal:yourusername/project.git
