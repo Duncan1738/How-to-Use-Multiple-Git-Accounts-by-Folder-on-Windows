@@ -147,9 +147,6 @@ TL;DR – Config Blueprint
 
 
 
-Duncan Kibet
-
-
 
 
 
