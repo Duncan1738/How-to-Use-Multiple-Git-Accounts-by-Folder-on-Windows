@@ -105,7 +105,7 @@ git clone git@github.com-personal:yourusername/project.git
 # Work
 git clone git@github.com-work:yourcompany/project.git
 
-🎯 Why This Works So Well
+Why This Works So Well
 No need to configure every new repository
 
 Easily switch context by simply working inside the correct folder
