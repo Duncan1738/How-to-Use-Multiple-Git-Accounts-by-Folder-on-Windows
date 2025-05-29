@@ -115,13 +115,13 @@ One change to .gitconfig-personal or .gitconfig-work updates all related repos
 Compatible with VS Code, JetBrains IDEs, Windows Terminal, and GitHub CLI
 
 📌 Use Cases
-🧠 Developers juggling multiple GitHub accounts
+- Developers juggling multiple GitHub accounts
 
-🏢 Consultants working for multiple clients
+- Consultants working for multiple clients
 
-🎓 Students switching between personal projects and university code
+- Students switching between personal projects and university code
 
-⚙️ Teams with central GitHub orgs and individual OSS contributions
+- Teams with central GitHub orgs and individual OSS contributions
 
 
 Summary
