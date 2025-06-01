@@ -1,4 +1,4 @@
-# How to Use Multiple Git Accounts by Folder on Windows
+h# How to Use Multiple Git Accounts by Folder on Windows
 
 > Seamlessly manage personal and work GitHub accounts on the same Windows machine — no reconfiguration needed per repo.
 
@@ -25,7 +25,7 @@ GitHub shows commits under the wrong profile
 
 Trouble using tools like Git Bash, CMD, and VS Code with multiple identities
 
-✅ Goal
+ Goal
 Set up Git to automatically switch users based on folder paths, like:
 C:\Projects\Personal → uses personal GitHub credentials  
 C:\Projects\Work     → uses work GitHub credentials
