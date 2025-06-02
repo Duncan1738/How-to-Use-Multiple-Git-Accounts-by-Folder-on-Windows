@@ -124,7 +124,7 @@ Compatible with VS Code, JetBrains IDEs, Windows Terminal, and GitHub CLI
 - Teams with central GitHub orgs and individual OSS contributions
 
 
-Summary
+✅ Summary
 
 Problem	Solution
 Wrong GitHub email in commits	Folder-based user config
