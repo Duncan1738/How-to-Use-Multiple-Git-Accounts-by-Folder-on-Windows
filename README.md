@@ -161,7 +161,7 @@ git clone git@github.com-work:yourcompany/project.git
 
 ---
 
-## 📦 Summary
+## Summary
 
 | Problem | Solution |
 |--------|----------|
