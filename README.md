@@ -2,7 +2,7 @@
 
 > Seamlessly manage personal and work GitHub accounts on the same Windows machine — no reconfiguration needed per repo.
 
-![cover](https://www.google.com/imgres?q=multiple%20git%20accounts&imgurl=https%3A%2F%2Fwww.uchaudhary.com.np%2Fstatic%2Fimages%2Fgit-ssh-cover.png&imgrefurl=https%3A%2F%2Fwww.uchaudhary.com.np%2Fblog%2Fmanage-multiple-git-accounts-the-right-way&docid=bCZpNhvx4078rM&tbnid=B5raMrv3ufjepM&vet=12ahUKEwiOp_Ho8eOOAxU3_8kDHaKOBhIQM3oECDMQAA..i&w=850&h=369&hcb=2&ved=2ahUKEwiOp_Ho8eOOAxU3_8kDHaKOBhIQM3oECDMQAA)
+![cover](https://www.google.com/imgres?q=multiple%20git%20accounts&imgurl=https%3A%2F%2Fguisantos.dev%2Fapi%2Fog%3Ftitle%3DHow%2520to%2520use%2520multiple%2520git%2520accounts%2520on%2520the%2520same%2520machine%26date%3DJune%252023%2C%25202023%26width%3D1200%26height%3D630&imgrefurl=https%3A%2F%2Fwww.guisantos.dev%2Fblog%2Fhow-to-use-multiple-git-accounts&docid=1gbhv-l5rDpz-M&tbnid=UfsqevCACpKAkM&vet=12ahUKEwiOp_Ho8eOOAxU3_8kDHaKOBhIQM3oECHIQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwiOp_Ho8eOOAxU3_8kDHaKOBhIQM3oECHIQAA)
 
 ---
 
