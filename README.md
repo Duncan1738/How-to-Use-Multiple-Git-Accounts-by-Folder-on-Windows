@@ -96,7 +96,7 @@ git config user.name    # Should return "Your Work Name"
 git config user.email   # Should return "work@example.com"
 ```
 
-✅ You’re now committing using the correct GitHub identity automatically!
+You’re now committing using the correct GitHub identity automatically!
 
 ---
 
