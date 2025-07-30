@@ -19,7 +19,7 @@ This guide helps you configure Git **once**, so it automatically uses the right 
 
 ---
 
-## 🛠 Step-by-Step Setup for Windows
+## Step-by-Step Setup for Windows
 
 ### 1. Create a Consistent Folder Structure
 
