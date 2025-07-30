@@ -143,7 +143,7 @@ git clone git@github.com-work:yourcompany/project.git
 
 ---
 
-## 🧠 Why This Works So Well
+## Why This Works So Well
 
 ✅ No need to configure each repo individually  
 ✅ Easily switch context by changing folders  
