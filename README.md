@@ -70,7 +70,7 @@ Edit `C:\Users\YourUsername\.gitconfig`:
     path = .gitconfig-work
 ```
 
-📌 Important:
+**Important**:
 - Use **forward slashes** (`/`) in paths even on Windows.
 - End each folder path with a **trailing slash** (`/`).
 
