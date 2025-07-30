@@ -100,7 +100,7 @@ You’re now committing using the correct GitHub identity automatically!
 
 ---
 
-## 🔐 Bonus: SSH Key Setup for Multiple GitHub Accounts
+## Bonus: SSH Key Setup for Multiple GitHub Accounts
 
 If you use **SSH authentication**, do the following:
 
