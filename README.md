@@ -152,7 +152,7 @@ git clone git@github.com-work:yourcompany/project.git
 
 ---
 
-## 🧰 Use Cases
+## Use Cases
 
 - Developers juggling **multiple GitHub accounts**
 - Consultants working with **multiple clients**
