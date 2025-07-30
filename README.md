@@ -145,10 +145,10 @@ git clone git@github.com-work:yourcompany/project.git
 
 ## Why This Works So Well
 
-✅ No need to configure each repo individually  
-✅ Easily switch context by changing folders  
-✅ Works in Git Bash, CMD, VS Code, Windows Terminal, etc.  
-✅ Keeps work and personal identities clean and separate  
+- No need to configure each repo individually  
+- Easily switch context by changing folders  
+- Works in Git Bash, CMD, VS Code, Windows Terminal, etc.  
+- Keeps work and personal identities clean and separate  
 
 ---
 
