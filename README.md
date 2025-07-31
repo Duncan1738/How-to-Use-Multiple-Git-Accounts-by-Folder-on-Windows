@@ -187,4 +187,4 @@ git clone git@github.com-work:yourcompany/project.git
     path = .gitconfig-work
 ```
 
-**Now you can manage multiple GitHub accounts without frustration — like a pro**
+**Now you can manage multiple GitHub accounts without frustration — like a pro.**
